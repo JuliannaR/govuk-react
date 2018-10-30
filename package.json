@@ -1,5 +1,6 @@
 {
   "name": "@govuk-react/monorepo",
+  "version": "1.0.0",
   "scripts": {
     "start": "cd packages/storybook && npm start",
     "bootstrap": "lerna bootstrap",
